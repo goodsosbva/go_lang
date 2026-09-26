@@ -1,0 +1,2 @@
+This is a sample file for searching the word word.
+The second line has another word to find.
